@@ -1,0 +1,108 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "finishing documentation",
+      "description": "Write the user and developer documentation for the Vue.js project.",
+      "dueDate": "2024-08-20T12:00:00Z",
+      "status": "not-started",
+      "priority": "medium",
+      "userId": "d1bb"
+    },
+    {
+      "id": "3",
+      "title": "Set Up Deployment",
+      "description": "Configure and deploy the task management app to a live server.",
+      "dueDate": "2024-08-25T09:00:00Z",
+      "status": "not-started",
+      "priority": "low",
+      "userId": "d1bb"
+    },
+    {
+      "id": "4",
+      "title": "Update Dependencies",
+      "description": "Update the project dependencies to the latest versions.",
+      "dueDate": "2024-08-10T15:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "userId": "d1bb"
+    },
+    {
+      "title": "complete UI Redesigning using figma",
+      "description": "Redesign the user interface for the main dashboard, including the new color scheme and layout adjustments.",
+      "dueDate": "2024-08-30",
+      "priority": "low",
+      "status": "not-started",
+      "userId": "43eb",
+      "id": "77b2"
+    },
+    {
+      "id": "e994",
+      "title": "Design Database Schema",
+      "description": "Create and document the database schema for the new project.",
+      "dueDate": "2024-08-13",
+      "priority": "medium",
+      "status": "not-started",
+      "userId": "43eb"
+    },
+    {
+      "id": "6262",
+      "title": "Deployment in AWS",
+      "description": "this involves bulding and putting the website on the cloud",
+      "dueDate": "2024-08-28",
+      "priority": "medium",
+      "status": "completed",
+      "userId": "43eb"
+    },
+    {
+      "id": "0e77",
+      "title": "Prepare Presentation",
+      "description": "Prepare a presentation for the upcoming team meeting on the new features.",
+      "dueDate": "2024-09-20",
+      "priority": "medium",
+      "status": "in-progress",
+      "userId": "43eb"
+    },
+    {
+      "id": "f421",
+      "title": "Fix Bugs in Code",
+      "description": "Identify and fix bugs reported in the codebase and test the fixes.",
+      "dueDate": "2024-08-06",
+      "priority": "low",
+      "status": "completed",
+      "userId": "43eb"
+    },
+    {
+      "id": "34d5",
+      "title": "Implement Authentication",
+      "description": "Set up user authentication using OAuth and integrate with the backend.",
+      "dueDate": "2024-08-23",
+      "priority": "high",
+      "status": "in-progress",
+      "userId": "1e6d"
+    }
+  ],
+  "users": [
+    {
+      "id": "d1bb",
+      "name": "UI/UX Designer",
+      "email": "j@gmail.com",
+      "password": "2090",
+      "confirm_password": "2090"
+    },
+    {
+      "id": "43eb",
+      "name": "Frankline Asuza",
+      "email": "asuzafrank12@gmail.com",
+      "password": "1000",
+      "confirm_password": "1000"
+    },
+    {
+      "id": "1e6d",
+      "name": "kelvin kuria",
+      "email": "kuria@gmail.com",
+      "password": "6000",
+      "confirm_password": "6000"
+    }
+  ]
+}
